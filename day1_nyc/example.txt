@@ -1,0 +1,12 @@
+<! DOCTYPE html>
+<head> 
+<title>example page</title>
+</head>
+
+<body>
+<header><h1>Logo</h1></header>
+<h1>Hello Class</h1>
+<p class="awesome"> This Class Is Awesome. </p>
+<p styles="color: red;">This Should Be Red. </p>
+</html>
+
